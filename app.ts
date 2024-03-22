@@ -20,3 +20,5 @@ console.log(tag)
 function verdoppeln(zahl: number): number {
   return zahl * 2
 }
+
+console.log(verdoppeln(50))

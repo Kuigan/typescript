@@ -13,3 +13,4 @@ console.log(tag);
 function verdoppeln(zahl) {
     return zahl * 2;
 }
+console.log(verdoppeln(50));
